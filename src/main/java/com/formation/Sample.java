@@ -10,8 +10,7 @@ public class Sample {
    *
    * @return Boolean
    */
-	public Boolean shouldBeWarning() {
-		return null;
-	}
-
+  public final Boolean shouldBeWarning() {
+    return null;
+  }
 }
