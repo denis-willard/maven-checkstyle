@@ -1,5 +1,10 @@
 package com.formation;
 
+/**
+ *
+ * @author mbeng
+ *
+ */
 public class Sample {
   /**
    *
